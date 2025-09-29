@@ -51,7 +51,7 @@ else{
 
 
 //checking with or if you can get a free pass
-if(age = 12 || dayOfTheWeek == "Tuesday"){
+if(age == 12 || dayOfTheWeek == "Tuesday"){
     cout << "You can get a free pass!" << endl;
 }
 else{
@@ -70,5 +70,6 @@ return 0;
 
 
     
+
 
 
